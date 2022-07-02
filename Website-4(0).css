@@ -1,0 +1,54 @@
+.x3{
+    color: burlywood;
+    background-color:darkgreen;
+    font-family: 'Courier New', Courier, monospace;
+    border: 10px solid cyan;
+    border-radius: 10px;
+    width: 50%;
+    
+}
+.x4{
+    color:rgb(42, 42, 109);
+    background-color:darkorange;
+    width: 50%;
+    border: 10px solid greenyellow;
+    border-radius: 10px;
+    
+}
+.y1{
+    color: rgb(19, 36, 2);
+    background-color: aqua;
+    border: 10px solid chocolate
+}
+.z{
+    color:rgb(157, 115, 187);
+    background-color: darkred;
+    border: 10px solid forestgreen;
+    width:10%;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+.z1{
+    color:aquamarine;
+    background-color: rgba(88, 40, 5, 0.61);
+    width: 12%;
+    border-radius: 10px;
+    padding: 10px;
+    border: 10px solid tomato;
+}
+span{
+    color:rgb(97, 55, 0);
+    background-color: blanchedalmond;
+    border-radius: 10px;
+    padding: 10px;
+    border: 10px solid honeydew;
+}
+
+small{
+    color:rgb(25, 103, 148);
+    background-color: blanchedalmond;
+    border-radius: 10px;
+    padding: 10px;
+    border: 10px solid honeydew;
+}
