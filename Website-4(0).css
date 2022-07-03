@@ -39,16 +39,27 @@
 }
 span{
     color:rgb(97, 55, 0);
-    background-color: blanchedalmond;
-    border-radius: 10px;
-    padding: 10px;
-    border: 10px solid honeydew;
+    
 }
 
 small{
     color:rgb(25, 103, 148);
-    background-color: blanchedalmond;
-    border-radius: 10px;
-    padding: 10px;
-    border: 10px solid honeydew;
+    background-color: antiquewhite;
 }
+.e{
+    
+    background-color: blanchedalmond;
+    margin-right: 10px;
+    margin-block-end: 20px;
+    border: 10px solid khaki ;
+    margin-left: 1700px;
+    border-radius: 10px;
+    
+
+}
+.y2{
+    color:rgb(53, 31, 2);
+}
+.x1{
+    color:rgb(87, 69, 69);
+}    
